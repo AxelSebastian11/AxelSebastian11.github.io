@@ -9,8 +9,8 @@ body{
 div.title{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 48px;
-    margin-top: 40px;
-    margin-bottom: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 div.quote{
@@ -22,7 +22,7 @@ div.quote{
 div.text{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 21px;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-left: 35px;
     margin-right: 35px;
 }
