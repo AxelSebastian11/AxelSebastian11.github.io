@@ -15,7 +15,8 @@ bodY {
     height: 100px;
     background: linear-gradient(45deg, cyan, #fff);
     margin: 10px;
-    animation: wave 1s linear infinite;
+    animation: wave 1s linear;
+    animation-iteration-count: 3;
     border-radius: 20px;
   }
   .wave:nth-child(2) {
