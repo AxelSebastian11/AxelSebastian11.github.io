@@ -1,5 +1,4 @@
-body
-    {
+body{
         margin-left: auto;
         margin-right: auto;
         background-image: url(https://i.imgur.com/wlHRFXH.jpg);
@@ -14,3 +13,66 @@ body
         margin-bottom: 0px;
     }
 
+    div.title{
+        width: 30%;
+        margin-top: 10px;
+        margin-bottom: 50px;
+        margin-left: 15px;
+        font-size: 35px;
+        color: lightskyblue;
+    }
+
+    div.row {
+        margin-top: 20px;
+        margin-bottom: 30px;
+        display:flex;
+        flex-wrap:wrap;
+    }
+
+    div.width1{
+        width: 400px;
+        height: 400px;
+        border-radius: 50%;
+        margin-top: 100px;
+        margin-bottom: 50px;
+        margin-left: 50px;
+        margin-right: auto;
+        background-image: url(https://i.imgur.com/69dUI7J.jpg);
+        background-attachment: fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: 50%, auto;
+        -o-background-size: 50%, auto;
+        background-size: 80%, auto;
+    }
+
+    div.width2{
+        width: 270px;
+        height: 270px;
+        border-radius: 50%;
+        margin-top: 170px;
+        margin-bottom: 50px;
+        margin-left: 650px;
+        margin-right: auto;
+        background-image: url(https://i.imgur.com/kb8GheY.jpg);
+        background-attachment: fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: 50%, auto;
+        -o-background-size: 50%, auto;
+        background-size: 65%, auto;
+    }
+
+    div.width3{
+        width: 350px;
+        height: 350px;
+        border-radius: 50%;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-left: 700px;
+        margin-right: auto;
+        background-image: url(https://i.imgur.com/UnAKXPt.jpg);
+        background-attachment: fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: 50%, auto;
+        -o-background-size: 50%, auto;
+        background-size: 72%, auto;
+    }
